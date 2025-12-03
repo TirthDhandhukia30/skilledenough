@@ -2,10 +2,6 @@
 
 > Analyze GitHub profiles. Discover tech stacks. Uncover opportunities.
 
-![skilled? Landing Page](./preview.png)
-
----
-
 ## What is this?
 
 **skilled?** analyzes any GitHub profile and tells you:
