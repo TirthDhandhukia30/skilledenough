@@ -1,0 +1,6 @@
+# robots.txt for skilled?
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://skilled.dev/sitemap.xml
